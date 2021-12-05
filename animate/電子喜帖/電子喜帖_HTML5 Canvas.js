@@ -4,8 +4,8 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"電子喜帖_HTML5 Canvas_atlas_1", frames: [[0,0,1000,1000],[0,1002,1000,1000],[1002,0,1000,1000],[1002,1002,673,692]]},
-		{name:"電子喜帖_HTML5 Canvas_atlas_2", frames: [[541,0,913,203],[1852,464,101,95],[1603,460,83,177],[1662,326,120,132],[1688,460,83,165],[1403,361,98,155],[1503,361,98,155],[1403,205,43,40],[1403,247,43,40],[1662,154,98,170],[1762,154,98,170],[1784,326,66,153],[1970,154,66,153],[1862,154,106,153],[1862,309,106,153],[1970,309,59,135],[1970,446,59,135],[1603,407,38,42],[1773,481,38,42],[1662,0,178,152],[1842,0,178,152],[1403,289,38,44],[1603,361,38,44],[1456,0,101,359],[1300,205,101,359],[1559,0,101,359],[0,0,539,805],[541,205,757,146],[541,353,757,146]]},
-		{name:"電子喜帖_HTML5 Canvas_atlas_3", frames: [[0,0,673,692],[0,694,673,692],[675,0,673,692],[1350,0,673,692],[675,694,539,805],[1216,694,539,805]]}
+		{name:"電子喜帖_HTML5 Canvas_atlas_2", frames: [[0,0,673,692],[0,694,673,692],[675,0,673,692],[1350,0,673,692],[675,694,539,805],[1216,694,539,805]]},
+		{name:"電子喜帖_HTML5 Canvas_atlas_3", frames: [[541,0,913,203],[1852,464,101,95],[1603,460,83,177],[1662,326,120,132],[1688,460,83,165],[1403,361,98,155],[1503,361,98,155],[1403,205,43,40],[1403,247,43,40],[1662,154,98,170],[1762,154,98,170],[1784,326,66,153],[1970,154,66,153],[1862,154,106,153],[1862,309,106,153],[1970,309,59,135],[1970,446,59,135],[1603,407,38,42],[1773,481,38,42],[1662,0,178,152],[1842,0,178,152],[1403,289,38,44],[1603,361,38,44],[1456,0,101,359],[1300,205,101,359],[1559,0,101,359],[0,0,539,805],[541,205,757,146],[541,353,757,146]]}
 ];
 
 
@@ -30,161 +30,161 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_39 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_38 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_37 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_36 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_35 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_34 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_33 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_32 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_31 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_30 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_29 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_28 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_27 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_26 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_25 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_24 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
@@ -219,84 +219,84 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_42 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_41 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_40 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_2"]);
+	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -1455,13 +1455,13 @@ if (reversed == null) { reversed = false; }
 
 	// 大紅心
 	this.instance_14 = new lib.CachedBmp_11();
-	this.instance_14.setTransform(90.1,62,0.5,0.5);
+	this.instance_14.setTransform(90.1,61.95,0.5,0.5);
 
 	this.instance_15 = new lib.CachedBmp_12();
-	this.instance_15.setTransform(90.1,62,0.5,0.5);
+	this.instance_15.setTransform(90.1,61.95,0.5,0.5);
 
 	this.instance_16 = new lib.CachedBmp_13();
-	this.instance_16.setTransform(90.1,62,0.5,0.5);
+	this.instance_16.setTransform(90.1,61.95,0.5,0.5);
 
 	var maskedShapeInstanceList = [this.instance_14,this.instance_15,this.instance_16];
 
